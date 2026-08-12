@@ -2,8 +2,10 @@
   <img width="40%" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </h1>
 
+<h1 align="center">Sohaib Khattak</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hey,+my+name's+Sohaib.;I+love+building+with+AI.;I+love+automation+%26+agentic+systems.;I+love+data+%26+ML.;I+love+learning+%26+shipping.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Python+Developer+%7C+AI+Enthusiast;Agentic+AI+%7C+Robotics+Engineering;Data+Analytics+%7C+PowerBI+Expert;Agentic+Systems;Automation+Specialist;Data+Engineering"></a>
 </p>
 
 <p align="center">
@@ -52,7 +54,7 @@
 
 <br>
 
-### 📊 3D Contribution Graph
+### 📊 Statistics
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg">
@@ -91,8 +93,6 @@
 - **[OpenClaw-workspace](https://github.com/Sohaib-Khattak/OpenClaw-workspace)** — OpenClaw workspace/config
 - **[Bellezone-Commerce-AI](https://github.com/Sohaib-Khattak/Bellezone-Commerce-AI)** — AI-powered e-commerce project
 - **[scholarship-ai-agent](https://github.com/Sohaib-Khattak/scholarship-ai-agent)** — AI agent for scholarship-related assistance
-
-> ⚠️ This now covers all 13 repositories. Descriptions for the last 4 (CodeAlpha-Robotics-Internship-, OpenClaw-workspace, Bellezone-Commerce-AI, scholarship-ai-agent) are inferred only from their names — I couldn't pull verified content for them. Paste their README content or a quick summary and I'll fill in accurate tech stacks/descriptions.
 
 ### 🌐 Connect
 <p align="center">
