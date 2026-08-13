@@ -23,7 +23,6 @@
 
 <br>
 
-### 🧠 AI & Agentic Tooling
 <div align="center">
   <img src="https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white">
   <img src="https://img.shields.io/badge/-OpenCode-1A1A1A?style=for-the-badge">
@@ -46,7 +45,6 @@
 
 <br>
 
-### 💻 Languages & Frameworks
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -67,7 +65,6 @@
 
 <br>
 
-### 🛠️ Platforms & Data Tools
 <div align="center">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
